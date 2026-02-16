@@ -36,6 +36,7 @@ sqlparse=0.5.3=py314h06a4308_0
 tk=8.6.15=h54e0aa7_0
 tzdata=2025c=he532380_0
 wheel=0.46.3=py314h06a4308_0
+whitenoise=6.11.0=pypi_0
 xorg-libx11=1.8.12=h9b100fa_1
 xorg-libxau=1.0.12=h9b100fa_0
 xorg-libxdmcp=1.1.5=h9b100fa_0
